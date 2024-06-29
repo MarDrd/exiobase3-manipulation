@@ -1,9 +1,9 @@
 # exiobase3-manipulation
 
 ## Table des matières
-- [Pymrio et EXIOBASE3](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Pymrio.ipynb) \n
+- [Pymrio et EXIOBASE3](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Pymrio.ipynb) 
 
-- [Classification des industries](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Classification%20Industries.pdf) \n
+- [Classification des industries](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Classification%20Industries.pdf) 
 
 - [Régions](https://github.com/MarDrd/exiobase3-manipulation/tree/main/R%C3%A9gions)
     - [49 régions - EXIOBASE3](https://github.com/MarDrd/exiobase3-manipulation/blob/main/R%C3%A9gions/R%C3%A9gions%20-%20EXIOBASE3.ipynb)
