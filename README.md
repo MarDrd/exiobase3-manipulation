@@ -1,13 +1,13 @@
 # exiobase3-manipulation
 
 ## Table des matières
-- [Pymrio et EXIOBASE3](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Pymrio.ipynb) 
+- [Pymrio et EXIOBASE3](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Pymrio.ipynb) \n
 
-- [Classification des industries](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Classification%20Industries.pdf)
+- [Classification des industries](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Classification%20Industries.pdf) \n
 
 - [Régions](https://github.com/MarDrd/exiobase3-manipulation/tree/main/R%C3%A9gions)
     - [49 régions - EXIOBASE3](https://github.com/MarDrd/exiobase3-manipulation/blob/main/R%C3%A9gions/R%C3%A9gions%20-%20EXIOBASE3.ipynb)
-    - [Construction des 16 régions](https://github.com/MarDrd/exiobase3-manipulation/blob/main/R%C3%A9gions/R%C3%A9gions%20Agr%C3%A9g%C3%A9es.ipynb)
+    - [Construction des 16 régions](https://github.com/MarDrd/exiobase3-manipulation/blob/main/R%C3%A9gions/R%C3%A9gions%20Agr%C3%A9g%C3%A9es.ipynb) <br>
 
 - [Secteur bovin - Chaîne d'approvisionnement](https://github.com/MarDrd/exiobase3-manipulation/tree/main/Secteur%20bovin%20-%20Cha%C3%AEne%20d'Approvisionnement):
     - [Sélection des industries et création des cartes thermiques](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Secteur%20bovin%20-%20Cha%C3%AEne%20d'Approvisionnement/CattleFarming_Approv.ipynb)
@@ -23,7 +23,7 @@
     - [GES - Consommation Finale](https://github.com/MarDrd/exiobase3-manipulation/tree/main/Impact%20-%20Consommation%20Finale/GES%20-%20Consommation%20Finale)
         - [Etapes du nettoyage](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Impact%20-%20Consommation%20Finale/GES%20-%20Consommation%20Finale/GES_Cleaning_Data.ipynb)
         - [Création des cartes thermiques et du GIF](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Impact%20-%20Consommation%20Finale/GES%20-%20Consommation%20Finale/GES_Heatmap_GIF.ipynb)
-        - [GIF - Cartes thermiques](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Impact%20-%20Consommation%20Finale/GES%20-%20Consommation%20Finale/GHG_FinalConso_Heatmap.gif)
+        - [GIF](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Impact%20-%20Consommation%20Finale/GES%20-%20Consommation%20Finale/GHG_FinalConso_Heatmap.gif)
         - [Cartes thermiques de 1995 à 2022](https://github.com/MarDrd/exiobase3-manipulation/tree/main/Impact%20-%20Consommation%20Finale/GES%20-%20Consommation%20Finale/GES%20-%20Heatmap)
         - [DataFrame en CSV](https://github.com/MarDrd/exiobase3-manipulation/tree/main/Impact%20-%20Consommation%20Finale/GES%20-%20Consommation%20Finale/GES%20-%20Data)
     
