@@ -3,6 +3,8 @@
 ## Table des matières
 - **[Pymrio et EXIOBASE3](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Pymrio.ipynb)** 
 
+- **[Description des bases de données MRIO - EXIOBASE3](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Bases%20de%20donn%C3%A9es%20EXIOBASE3.pdf)**
+
 - **[Classification des industries](https://github.com/MarDrd/exiobase3-manipulation/blob/main/Classification%20Industries.pdf)** 
 
 - **[Régions:](https://github.com/MarDrd/exiobase3-manipulation/tree/main/R%C3%A9gions)**
